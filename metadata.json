@@ -1,0 +1,9 @@
+
+{
+  "name": "Ứng dụng Ghi âm",
+  "description": "Ghi âm dễ dàng với sự hỗ trợ của Gemini. Biến các bản ghi dài dòng thành các ghi chú được phiên âm hoàn hảo.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
